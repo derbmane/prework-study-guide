@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation for creating this web page is to jump start my carrer as a software engineer. I built this project to better understand waht goes into craeting a website. By creating this website i made a small study guide explaining some basic facts about Html Java Script CSS and Git. I've learned the baiscs of setting up a website and how to check for bugs.
+My motivation for creating this web page is to jump start my carrer as a software engineer. I built this project to better understand what goes into creating a website. By creating this website i made a small study guide explaining some basic facts about Html Java Script CSS and Git. I've learned the baiscs of setting up a website and how to check for bugs.
 
 ## Table of Contents (Optional)
 
